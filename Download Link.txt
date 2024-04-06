@@ -1,5 +1,4 @@
-itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/revechatofficial/MobileDistribution/staging-revechat-beta/REVEChat.plist
-
+itms-services://?action=download-manifest&url=https://raw.githubusercontent.com/revechatofficial/MobileDistribution/staging-revechat-beta/REVEChatV2.plist
 
 1) ipa link:
 
