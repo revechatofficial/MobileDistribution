@@ -1,4 +1,4 @@
-itms-services://?action=download-manifest&url=https://pastebin.com/raw/gwamBq3X
+itms-services://?action=download-manifest&url=https://api.pastecode.io/anon/raw-snippet/ayisc7b1?raw=inline&ticket=30bd6462-fb33-4178-bcbb-cca467fe223e
 
 1) ipa link:
 
