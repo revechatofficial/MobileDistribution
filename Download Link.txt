@@ -1,4 +1,4 @@
-itms-services://?action=download-manifest&url=https://pastecode.dev/raw/cnm4o7du/paste1.txt
+itms-services://?action=download-manifest&url=https://gist.githubusercontent.com/revechatofficial/bca0c81cb782ed58fda87d5d9626803e/raw/b7ec1f8acdf56da3ce10ff622a302f800bc449d0/daihanTest.plist
 
 1) ipa link:
 
